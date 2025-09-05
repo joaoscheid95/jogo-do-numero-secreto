@@ -67,3 +67,4 @@ function reiniciarJogo() {
 }
 
 // Teste número 1
+// Teste tentando usar o jopefake
