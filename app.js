@@ -67,4 +67,4 @@ function reiniciarJogo() {
 }
 
 // mudando de H1 para H2
-// novo título: Simplificando título
+// novo título: Lista de cursos de DevOps
