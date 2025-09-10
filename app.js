@@ -67,3 +67,4 @@ function reiniciarJogo() {
 }
 
 // mudando de H1 para H2
+// novo título: Simplificando título
