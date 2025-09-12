@@ -68,3 +68,4 @@ function reiniciarJogo() {
 
 // mudando de H1 para H2
 // novo título: Cursos da Alura
+// Arrumando um bug
